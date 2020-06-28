@@ -99,8 +99,6 @@ author:
   location         : "Hyderabad, India "
   github           : "https://github.com/tapanKumarPatro"
   email            : "tapankumarpatro05@gmail.com"
-  linkedin         : "https://www.linkedin.com/in/tapankpatro/"
-
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -282,19 +280,3 @@ defaults:
       comments: # true
       share: true
       related: true
-<<<<<<< HEAD
-  # _pages
-  - scope:
-      path: ""
-      type: pages
-    values:
-      layout: single
-      author_profile: true
-      # read_time: true
-      # comments: # true
-      # share: true
-      # related: true
-=======
-
-theme: jekyll-theme-minimal
->>>>>>> 5e7b308c72a787c81f270672fa88e2a28fde655c
