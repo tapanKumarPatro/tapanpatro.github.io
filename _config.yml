@@ -282,6 +282,7 @@ defaults:
       comments: # true
       share: true
       related: true
+<<<<<<< HEAD
   # _pages
   - scope:
       path: ""
@@ -293,3 +294,7 @@ defaults:
       # comments: # true
       # share: true
       # related: true
+=======
+
+theme: jekyll-theme-minimal
+>>>>>>> 5e7b308c72a787c81f270672fa88e2a28fde655c
