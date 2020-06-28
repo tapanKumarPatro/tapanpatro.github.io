@@ -97,8 +97,9 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Portfolio"
   location         : "Hyderabad, India "
-  github           : "https://github.com/tapanKumarPatro"
+  github           : "tapanKumarPatro"
   email            : "tapankumarpatro05@gmail.com"
+  linkedin         : "https://www.linkedin.com/in/tapankpatro/"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
