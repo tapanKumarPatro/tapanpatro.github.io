@@ -1,6 +1,6 @@
 ---
 title: "About"
-permlink: /about/
+permlink: https://tapankumarpatro.github.io/tapanpatro.github.io/about/
 haeder: 
     image: "images/main.jpeg" 
 ---
