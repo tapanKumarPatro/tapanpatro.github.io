@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : "Tapan Patro"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "images/main.jpg"
   bio              : "Portfolio"
   location         : "Hyderabad, India "
   github           : "tapanKumarPatro"
